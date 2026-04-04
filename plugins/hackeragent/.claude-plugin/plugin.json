@@ -1,0 +1,13 @@
+{
+  "name": "hackeragent",
+  "description": "Your AI hackathon copilot. Syncs your project to MentorMates as you build.",
+  "version": "1.0.0",
+  "author": {
+    "name": "MentorMates",
+    "email": "hello@mentor-mates.com"
+  },
+  "homepage": "https://hackeragent.vercel.app",
+  "repository": "https://github.com/edumame/hackeragent",
+  "license": "MIT",
+  "keywords": ["hackathon", "mentormates", "agent", "project-sync"]
+}

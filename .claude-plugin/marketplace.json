@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mentormates-marketplace",
+  "version": "1.0.0",
+  "description": "MentorMates plugins for AI coding agents",
+  "owner": {
+    "name": "MentorMates",
+    "email": "hello@mentor-mates.com"
+  },
+  "plugins": [
+    {
+      "name": "hackeragent",
+      "description": "Your AI hackathon copilot. Syncs your project to MentorMates as you build. Loads hackathon context (judging criteria, sponsor challenges, deadlines) and auto-syncs progress.",
+      "version": "1.0.0",
+      "author": {
+        "name": "MentorMates",
+        "email": "hello@mentor-mates.com"
+      },
+      "source": "./plugins/hackeragent",
+      "category": "development",
+      "homepage": "https://hackeragent.vercel.app"
+    }
+  ]
+}
