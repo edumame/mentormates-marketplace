@@ -19,6 +19,18 @@
       "source": "./plugins/hackeragent",
       "category": "development",
       "homepage": "https://hackeragent.vercel.app"
+    },
+    {
+      "name": "mentormates",
+      "description": "Manage your MentorMates hackathon event or participant submissions — participants, projects, judges, approvals. Organizer + participant agent APIs.",
+      "version": "1.0.0",
+      "author": {
+        "name": "MentorMates",
+        "email": "hello@mentor-mates.com"
+      },
+      "source": "./plugins/mentormates",
+      "category": "productivity",
+      "homepage": "https://www.mentormates.ai"
     }
   ]
 }

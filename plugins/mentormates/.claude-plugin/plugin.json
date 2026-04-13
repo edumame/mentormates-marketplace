@@ -1,0 +1,13 @@
+{
+  "name": "mentormates",
+  "description": "Manage your MentorMates hackathon event or participant submissions — participants, projects, judges, approvals",
+  "version": "1.0.0",
+  "author": {
+    "name": "MentorMates",
+    "email": "hello@mentor-mates.com"
+  },
+  "homepage": "https://www.mentormates.ai",
+  "repository": "https://github.com/edumame/mentormates-skill",
+  "license": "MIT",
+  "keywords": ["hackathon", "mentormates", "events", "judging", "agent"]
+}
